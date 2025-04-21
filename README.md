@@ -19,8 +19,8 @@ An intelligent, contactless smart dustbin system powered by **Arduino Uno**, **U
 
 ## 📷 Project Images
 
-### 🔧 Prototype Model  
-![Prototype](Arduino.jpeg)
+
+
 
 ### 🧱 Block Diagram  
 ![Block Diagram](Block_Diagram.jpeg)
@@ -42,6 +42,7 @@ An intelligent, contactless smart dustbin system powered by **Arduino Uno**, **U
 | 6    | Power Source           | 1        |
 
 ![Ultrasonic Sensor](Ultrasonic%20Sensor.jpeg)
+![Prototype](Arduino.jpeg)
 
 ---
 
