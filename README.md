@@ -55,7 +55,8 @@ You can find the detailed project report [here](ProjectReportFormatfinalpdf.pdf)
 
 ## ✅ Output
 
-<img src="output.jpg" alt="Lid Open" width="300"/> <img src="output_closed.jpg" alt="Lid Closed" width="300"/>
+<img src="![image](https://github.com/user-attachments/assets/8cc5dbfe-abdc-46da-a371-ebd1461b95bc)
+" alt="Lid Open" width="300"/> 
 
 ---
 
