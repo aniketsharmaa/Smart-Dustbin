@@ -6,7 +6,7 @@ A contactless IoT-based smart dustbin system that opens automatically when a use
 
 ## 📸 Project Prototype
 
-<img src="prototype_image.jpg" alt="Smart Dustbin Prototype" width="400"/>
+<img src="" alt="Smart Dustbin Prototype" width="400"/>
 
 ---
 
@@ -43,7 +43,7 @@ A contactless IoT-based smart dustbin system that opens automatically when a use
 
 ## 📄 Project Report
 
-You can find the detailed project report [here](project_report.docx).
+You can find the detailed project report [here](ProjectReportFormatfinalpdf.pdf).
 
 ---
 
@@ -55,7 +55,7 @@ You can find the detailed project report [here](project_report.docx).
 
 ## ✅ Output
 
-<img src="output_open.jpg" alt="Lid Open" width="300"/> <img src="output_closed.jpg" alt="Lid Closed" width="300"/>
+<img src="output.jpg" alt="Lid Open" width="300"/> <img src="output_closed.jpg" alt="Lid Closed" width="300"/>
 
 ---
 
