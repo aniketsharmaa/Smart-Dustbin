@@ -26,7 +26,7 @@ An intelligent, contactless smart dustbin system powered by **Arduino Uno**, **U
 ![Block Diagram](Block_Diagram.jpeg)
 
 ### ✅ Output  
-![Output](Output.jpeg)
+![Output](finaloutput.jpg)
 
 ---
 
