@@ -58,5 +58,4 @@ You can find the detailed project report [here](ProjectReportFormatfinalpdf.pdf)
 <img src="![image](https://github.com/user-attachments/assets/8cc5dbfe-abdc-46da-a371-ebd1461b95bc)
 " alt="Lid Open" width="300"/> 
 
----
 
