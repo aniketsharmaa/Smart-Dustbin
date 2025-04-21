@@ -49,7 +49,7 @@ You can find the detailed project report [here](project_report.docx).
 
 ## 📊 Block Diagram
 
-<img src="block_diagram.png" alt="Smart Dustbin Block Diagram" width="400"/>
+<img src="image.png" alt="Smart Dustbin Block Diagram" width="400"/>
 
 ---
 
